@@ -445,6 +445,7 @@ nf-custom-chuck:
 nf-custom-common_lisp:
 nf-custom-cpp:
 nf-custom-crystal:
+nf-custom-css:
 nf-custom-default:
 nf-custom-electron:
 nf-custom-elixir:
@@ -985,6 +986,18 @@ nf-dev-yugabytedb:
 nf-dev-yunohost:
 nf-dev-zend:
 nf-dev-zig:
+nf-extra-progress_empty_left:
+nf-extra-progress_empty_mid:
+nf-extra-progress_empty_right:
+nf-extra-progress_full_left:
+nf-extra-progress_full_mid:
+nf-extra-progress_full_right:
+nf-extra-progress_spinner_1:
+nf-extra-progress_spinner_2:
+nf-extra-progress_spinner_3:
+nf-extra-progress_spinner_4:
+nf-extra-progress_spinner_5:
+nf-extra-progress_spinner_6:
 nf-fa-500px:
 nf-fa-accessible_icon:
 nf-fa-accusoft:
