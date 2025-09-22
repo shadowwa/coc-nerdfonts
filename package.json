@@ -1,7 +1,7 @@
 {
   "name": "coc-nerdfonts",
   "version": "1.2.0",
-  "description": "Nerdfonts completion source of coc.nvim.",
+  "description": "Nerdfonts completion source for coc.nvim.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -31,7 +31,7 @@
         },
         "coc.source.nerdfonts.shortcut": {
           "type": "string",
-          "default": "T"
+          "default": "N"
         },
         "coc.source.nerdfonts.triggerPatterns":{
           "type": "array",
